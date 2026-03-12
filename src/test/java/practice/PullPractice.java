@@ -8,6 +8,7 @@ public class PullPractice {
 		 System.out.println("pushing through  ATE1 ");
 		 System.out.println("second branch creation");
 		 System.out.println("git conflict from the FWE1");
+		 System.out.println("second branch creation ATE2");
 		 
 
 	}
