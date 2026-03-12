@@ -7,6 +7,7 @@ public class PullPractice {
 		 System.out.println("New class for pull is created");
 		 System.out.println("pushing through  ATE1 ");
 		 System.out.println("second branch creation");
+		 System.out.println("git conflict from the FWE1");
 		 
 
 	}
